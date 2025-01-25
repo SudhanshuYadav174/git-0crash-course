@@ -6,3 +6,7 @@ const dob = '13/02/2004';
 function sayname(){
     console.log('My name id ' + name);
 }
+
+function newFn(){
+    console.log("hey I am here");
+}
